@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "HSLuvSwift",
     platforms: [
-        .iOS(.v10),
+        .iOS(.v9),
         .macOS(.v10_11),
     ],
     products: [
